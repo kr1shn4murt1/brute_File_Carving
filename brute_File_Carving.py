@@ -3,7 +3,7 @@
 # Proposito del script: Prueba de concepto de recuperacion de 
 # imagenes corruptas mediante tecnica de fuerza bruta
 # https://github.com/kr1shn4murt1/brute_File_Carving
-# Video mostrando ejecución: https://www.youtube.com/watch?v=1egeEnJmDXs
+# Video mostrando ejecucion: https://www.youtube.com/watch?v=1egeEnJmDXs
 # Info detallada: http://kr1shn4murt1.blogspot.com.co/2016/04/brutefilecarving-recuperacion-de.html
 # PAra mas informacion leer archivo README.md https://github.com/kr1shn4murt1/brute_File_Carving/blob/master/README.md
 #!/usr/bin/env python
